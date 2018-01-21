@@ -22,6 +22,7 @@
 
 #include <algorithm>
 #include <vector>
+#include <functional>
 
 #include "clang/clang_tool.hpp"
 #include "bindings.hpp"
